@@ -34,7 +34,7 @@ namespace NestedObjects {
 		/// <summary>
 		/// Student's primary phone number
 		/// </summary>
-		public int PhoneNumber { get; set; }
+		public string PhoneNumber { get; set; }
 
 		public Advisor AssignedAdvisor { get; set; } 
 	}
